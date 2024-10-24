@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace LR_first
 {
-    internal class Program
+    internal class Пиво
     {
-        static void Main()
-        {
-        }
     }
 }
