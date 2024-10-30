@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LR_first
 {
-    internal class Пиво
+    public enum Пиво
     {
+        Алкогольное = 0,
+        Безалкогольное,
+        Вкусовое
     }
 }

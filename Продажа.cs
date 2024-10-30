@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace LR_first
 {
-    internal class Продажа
+    internal class История_продаж
     {
+        Dictionary<Пиво, List<записи_о_продажах>> СловарьПродаж = new Dictionary<Пиво, List<записи_о_продажах>>();
     }
+    
 }

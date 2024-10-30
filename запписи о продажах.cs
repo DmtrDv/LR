@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace LR_first
 {
-    internal class запписи_о_продажах
+    public struct записи_о_продажах
     {
+        int количество;
+        int день;
+        string тип_товара;
     }
 }
