@@ -10,6 +10,7 @@ namespace LR_first
     {
         static void Main()
         {
+            
         }
     }
 }
