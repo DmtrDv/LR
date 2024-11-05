@@ -8,7 +8,7 @@ namespace LR2
 {
     internal class Program
     {
-        static void Main()
+        static void Main() 
         {
             
         }
