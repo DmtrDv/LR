@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LR_first
+namespace LR2
 {
     public enum Пиво
     {
